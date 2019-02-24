@@ -1,2 +1,2 @@
 # Udacity-Investigating-TMDb-Movie-Dataset
-Project I completed during Udacity Data Analyst Nanodegree
+Udacity Data Analyst Nanodegree Project
