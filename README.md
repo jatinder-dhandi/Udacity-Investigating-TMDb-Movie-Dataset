@@ -1,2 +1,2 @@
-# Udacity-Investigating-TMDb-Movie-Dataset-Python-Jupyter-Notebook
+# Udacity-Investigating-TMDb-Movie-Dataset
 Udacity Data Analyst Nanodegree Project
